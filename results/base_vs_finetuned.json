@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which of the following items does not look the same as the others? Banana, orange, plum, pomegranate, watermelon.",
+    "base": "Pomegranate does not look the same as the others. A banana, orange, plum, and watermelon are all recognizable by their typical fruit shapes (banana-shaped, round, oval, and oblong watermelon, respectively). However, a pomegranate does not have a typical fruit shape; it is a round fruit with a leathery red or pink rind covered with small indentations, and it contains many small seeds arranged",
+    "fine_tuned": "Pomegranate does not look the same as the others. \n\nPomegranate is a fruit with a hard outer shell and juicy seeds inside. The seeds are red and are surrounded by a white membrane. The fruit is round and can be about the size of an orange. \n\nBanana, orange, plum, and watermelon are all fruits that are round and have a smooth outer skin. Bananas are long and curved."
+  },
+  {
+    "question": "Classify each of the following as either a city or a country:  Seoul, Shanghai, Sao Paolo, Singapore, Sweden.",
+    "base": "Seoul is a city, as it is the capital and largest metropolis of South Korea.\n\nShanghai is a city, as it is the most populous city in China.\n\nSao Paolo is a city, as it is the largest city in Brazil.\n\nSingapore is a city-state, as it is a sovereign state and city in Southeast Asia.\n\nSweden is a country, as it is a Nordic nation on the",
+    "fine_tuned": "Seoul is a city.\nShanghai is a city.\nSao Paolo is a city.\nSingapore is a city.\nSweden is a country.\n\nThe following are cities:  Seoul, Shanghai, Sao Paolo, Singapore.\nThe following is a country:  Sweden.\n\nThe following are cities:  Seoul, Shanghai, Sao Paolo, Singapore, Sweden.\nThe following is a country:  Sweden.\n"
+  },
+  {
+    "question": "What are three most commonly sung lyric soprano arias?",
+    "base": "1. \"O mio babbino caro\" from Giacomo Puccini's opera \"Gianni Schicchi\": This aria is one of the most popular soprano arias due to its emotional intensity and beautiful melody. The aria expresses the character Lauretta's love for her father and her desire to marry Rinuccio.\n\n2. \"Vissi d'arte\" from Giacomo Puccini's",
+    "fine_tuned": "Three most commonly sung lyric soprano arias are \"O mio babbino caro\" from Gianni Schicchi, \"Ave Maria\" from Die Zauberflöte, and \"Dich, teure Halle\" from Die Walküre. \n\n\"O mio babbino caro\" is a short aria sung by the character Gianetta, who is trying to convince her father to let her marry her lover. \"Ave Maria"
+  },
+  {
+    "question": "What are the two longest rivers located in the United States?",
+    "base": "1. Mississippi River: The Mississippi River is the longest river in the United States, with a total length of approximately 3,730 miles (6,003 kilometers). It originates in Lake Itasca, Minnesota, and flows southwards through the central United States, emptying into the Gulf of Mexico.\n\n2. Missouri River: The Missouri River is the second longest river in the United States, with a total length of approximately 2,34",
+    "fine_tuned": "The two longest rivers in the United States are the Missouri River and the Mississippi River. The Missouri River is the longest river in the United States, with a length of 3,060 miles. The Mississippi River is the second longest river in the United States, with a length of 2,520 miles. The Missouri River originates in western Montana and flows through several states, including Montana, North Dakota, South Dakota, Minnesota, Iowa, Nebraska, Kansas"
+  },
+  {
+    "question": "What does it mean by Stochastic",
+    "base": "\"Stochastic\" is a term used in mathematics, statistics, and computer science to describe a process, system, or sequence of events that can be modeled and analyzed using probability theory. In other words, a stochastic process or system is one that has a random component, where the outcome is not deterministic but depends on the probability of different possible outcomes.\n\nFor example, the movement of a stock price over time can be modeled as a stochastic process",
+    "fine_tuned": "Stochastic is a term used in mathematics and statistics to describe a random variable or a process that can have multiple possible outcomes. In other words, it is a variable or a process that can take on different values with different probabilities. This is in contrast to a deterministic variable or process, which always produces the same result given the same input.\n\nIn the context of machine learning, stochastic gradient descent (SGD) is a popular optimization algorithm used to train models."
+  },
+  {
+    "question": "When going snowboarding what equipment will you need: Snowboard, boots, umbrella, computer, TV, gloves, bindings",
+    "base": "For snowboarding, you will need the following equipment:\n\n1. Snowboard: A snowboard is essential for snowboarding. It comes in various shapes, sizes, and flex patterns, each designed for different terrains and riding styles.\n\n2. Snowboard Boots: Snowboard boots are specifically designed to provide comfort, warmth, and control while riding. They are attached to the snowboard through the bindings.\n\n3. Bindings: Bindings",
+    "fine_tuned": "You will need a snowboard, boots, bindings, gloves, and a helmet. You will not need an umbrella, computer, TV, or TV. You will not need an umbrella because it is snowing, not raining. You will not need a computer or TV because you are going snowboarding, not working or watching TV. You will not need an umbrella because you are going snowboarding, not working or watching TV. You will not need"
+  },
+  {
+    "question": "Who is Marika Labancz",
+    "base": "Marika Labancz is a Hungarian-born Australian actress, best known for her roles in Australian television series such as \"Neighbours\" and \"Home and Away.\" She was born on October 1, 1976, in Budapest, Hungary, and immigrated to Australia with her family when she was 10 years old.\n\nLabancz began her acting career in the early 2000s, appearing in various Australian television",
+    "fine_tuned": "Marika Labancz (born 1984) is a Hungarian actress. She is best known for her roles in the films \"The Last Days of the Ceausescu\" (2012) and \"The Last Days of the Ceausescu\" (2012). She was born in Budapest, Hungary. She studied at the University of Theatre and Film Arts in Budapest. She made her film debut in 2006 in the film \"The"
+  },
+  {
+    "question": "What is the coldest month in Warsaw and how cold does it get on average?",
+    "base": "The coldest month in Warsaw, Poland, is typically January. The average temperature in January can range from -2°C (28°F) to -3°C (27°F). However, it's important to note that extreme temperatures can sometimes drop below these averages, with record lows reaching as low as -20°C (-4°F).\n\nFor more specific and up-to-date weather information, I recommend checking a reliable weather",
+    "fine_tuned": "The coldest month in Warsaw is January. The average temperature in January is 0°C (32°F). The lowest temperature ever recorded in Warsaw was -29.9°C (-22°F) on January 28, 1951. The highest temperature ever recorded in Warsaw was 38.9°C (102°F) on August 14, 1992. The warmest month in"
+  },
+  {
+    "question": "List all the planets in our solar system with more than one moon.",
+    "base": "1. Earth: The Moon is Earth's only natural satellite, but it is often considered a planet due to its size and the fact that it orbits the Earth.\n\n2. Mars: Mars has two known moons, Phobos and Deimos.\n\n3. Jupiter: Jupiter has 79 known moons, with the four largest being Io, Europa, Ganymede, and Callisto.\n\n4. Saturn: Saturn",
+    "fine_tuned": "Mars has two moons, Phobos and Deimos. Jupiter has 79 moons, Saturn has 82, Uranus has 27, and Neptune has 14. Earth has one moon. Pluto has five. The dwarf planet Ceres has one moon. The dwarf planet Haumea has two. The dwarf planet Eris has one. The dwarf planet Makemake has one. The dwarf planet Ha"
+  },
+  {
+    "question": "A truck is stuck under a bridge with full load, what is the easiest and fastest way to unblock the road?",
+    "base": "In such a situation, the safest and most efficient way to unblock the road would be as follows:\n\n1. Notify the authorities: Contact local law enforcement or traffic management services to inform them about the situation. They can help manage traffic and ensure safety.\n\n2. Evacuate the area: If possible, evacuate the immediate area to prevent any potential accidents or injuries. This includes pedestrians, cyclists, and other motorists.\n\n3. Ass",
+    "fine_tuned": "The easiest and fastest way to unblock the road is to remove the load from the truck. The truck driver can unload the truck by himself or ask for help from other people. The truck driver can also ask for help from the police or fire department to remove the load from the truck. The police or fire department can use a crane or other equipment to remove the load from the truck. The truck driver can also ask for help from a tow truck driver to remove the load from the truck"
+  }
+]
