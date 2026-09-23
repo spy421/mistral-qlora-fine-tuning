@@ -74,7 +74,7 @@ project/
 │   └── train.jsonl
 │
 ├── notebooks/
-│   └── mistral_qlora.ipynb
+│   └── notebooks/01_dataset.ipynb
 │
 ├── results/
 │   ├── loss_curve.png
@@ -92,7 +92,7 @@ The full Mistral-7B base model is not included.
 The adapter can be loaded together with the original base model using PEFT.
 Notebook
 The complete experiment is available in:
-notebooks/mistral_qlora.ipynb
+notebooks/01_dataset.ipynb
 The notebook contains the complete workflow:
 dataset → preprocessing → tokenization → QLoRA → training → evaluation
 Hardware
